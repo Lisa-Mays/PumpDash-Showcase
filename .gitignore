@@ -1,0 +1,14 @@
+# Personal use files (never commit)
+commit.bat
+make-public.bat
+*.bat
+notes*.txt
+scratch*
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Unprocessed screenshots (only the cropped copies in assets/ are published)
+_raw/
